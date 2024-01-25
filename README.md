@@ -27,4 +27,4 @@
 
 ## Preview Script 🥷
 
-![enter image description here](https://uploadkon.ir/uploads/7d7b12_24Untitled.png)
+![enter image description here](https://s8.uupload.ir/files/image_jirw.png)
