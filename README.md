@@ -14,6 +14,7 @@
  1. Install req
 
 > pip install pybluez2
+
 > Need Python V 3.9
  2. Download Script
 
